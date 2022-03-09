@@ -22,5 +22,7 @@
 * The laergest bacterium ever discovered [size matters!](https://www.science.org/content/article/largest-bacterium-ever-discovered-has-unexpectedly-complex-cells)
 ---
 
-### Support or Contact
-Having questions/troubles with this page? Post your questions/comments on the class [BLACKBOARD LMS](https://kulms.korea.ac.kr)
+```
+Having questions/troubles with this page?
+```
+Post your questions/comments on the class [BLACKBOARD LMS](https://kulms.korea.ac.kr)
