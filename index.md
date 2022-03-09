@@ -11,11 +11,12 @@
   - 동아사이언스 (강석기의 과학카페): [진핵생물 진화의 열쇠 쥔 고세균, 배양에 성공하다](https://www.dongascience.com/news.php?idx=30788), [고세균 로키, 진핵세포 진화의 잃어버린 고리인가](https://www.dongascience.com/news.php?idx=6896)
 
 #### Chapter 2
-* How optical microscope became __nanoscope__? [:2014 Nobel prize winners](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2014.pdf)
+* How optical microscope became __nanoscope__? [2014 Nobel prize winners](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2014.pdf)
 
 #### Chapter 3
 * The laergest bacterium ever discovered [size matters!](https://www.science.org/content/article/largest-bacterium-ever-discovered-has-unexpectedly-complex-cells)
 
+---
 ```
 Having questions/troubles with this page?
 ```
