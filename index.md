@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Microbiology Companion Site
 
-You can use the [editor on GitHub](https://github.com/igchoi/microbiology.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2022 Spring LIST203 Microbiology
+#### Chapter 1
+1. Asgard/Loki? (Avengers??) - Archaea(고세균) is missing link in evolution of eukaryote?
+- Asgard group of __Lokiarcheota__ [Cultivation](https://www.nature.com/articles/d41586-020-00087-4)
+- 동아사이언스 (강석기의 과학카페) [1](https://www.dongascience.com/news.php?idx=30788), [2](https://www.dongascience.com/news.php?idx=6896)
+2. Who was 'Carl Woese'?
+- Obituary 1 [NYTimes](https://www.nytimes.com/2013/01/01/science/carl-woese-dies-discovered-lifes-third-domain.html)
+- Obituary 2 [Nature: Discoverer of life's third domain](https://www.nature.com/articles/493610a)
 
-### Markdown
+#### Chapter 2
+#### Chapter 3
+1. The laergest bacterium ever discovered [size matters!](https://www.science.org/content/article/largest-bacterium-ever-discovered-has-unexpectedly-complex-cells)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/igchoi/microbiology.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having Questions/Troubles with Pages? Check out your [BLACKBOARD LMS](https://kulms.korea.ac.kr)
