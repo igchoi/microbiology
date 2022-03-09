@@ -15,7 +15,7 @@
 ---
 #### Chapter 2
 
-* How optical microscope became `nanoscope`? [2014 Nobel prize](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2014.pdf)
+* How optical microscope became __nanoscope__? [:2014 Nobel prize winners](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2014.pdf)
 ---
 #### Chapter 3
 
