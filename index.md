@@ -13,7 +13,7 @@
 * How optical microscope became __nanoscope__? [2014 Nobel prize winners](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2014.pdf)
 
 ### __Chapter 3__
-* The laergest bacterium ever discovered [size matters!](https://www.science.org/content/article/largest-bacterium-ever-discovered-has-unexpectedly-complex-cells)
+* The largest bacterium ever discovered [size matters!](https://www.science.org/content/article/largest-bacterium-ever-discovered-has-unexpectedly-complex-cells)
 
 ---
 ```
