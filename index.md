@@ -22,6 +22,8 @@
 ### __Chapter 3__
 * Why bacteria can't get any bigger—or smaller? [size matters!](https://www.science.org/content/article/why-bacteria-can-t-get-any-bigger-or-smaller)
 * The largest bacterium ever discovered [size matters!](https://www.science.org/content/article/largest-bacterium-ever-discovered-has-unexpectedly-complex-cells)
+
+
 ---
 ## Links
 
@@ -31,6 +33,8 @@
 * 영국 미생물학회 소식지 [Microbiology Today](https://microbiologysociety.org/publication/current-issue/)
 * 미생물생명공학회 [웹진](http://www.e-bioindustry.or.kr/index.html)
 * 미생물학회 [웹진](http://www.msk.or.kr/webzine/201906/index.html)
+
+
 ---
 ```
 Having questions/troubles with this page?
