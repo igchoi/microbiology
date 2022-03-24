@@ -17,7 +17,7 @@
 * Microscopy: Dark Field, Phase Contrast, Polarization and DIC (Edward Salmon) [YouTube](https://www.youtube.com/watch?v=P2teE17zT4I)
 * [Real-time brightfield, darkfield, and phase contrast imaging in a light-emitting diode array microscope](https://doi.org/10.1117/1.JBO.19.10.106002)
 * How optical microscope became __nanoscope__? [2014 Nobel prize winners](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2014.pdf)
-
+  - [Super resolution fluorescence microscopy](https://www.youtube.com/watch?v=w2Qo__sppcI)
 
 ### __Chapter 3__
 * Why bacteria can't get any bigger—or smaller? [size matters!](https://www.science.org/content/article/why-bacteria-can-t-get-any-bigger-or-smaller)
