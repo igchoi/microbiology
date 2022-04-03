@@ -22,7 +22,8 @@
 ### __Chapter 3__
 * Why bacteria can't get any bigger—or smaller? [size matters!](https://www.science.org/content/article/why-bacteria-can-t-get-any-bigger-or-smaller)
 * The largest bacterium ever discovered [size matters!](https://www.science.org/content/article/largest-bacterium-ever-discovered-has-unexpectedly-complex-cells)
-* Daivd Goodsell's [Paintings](https://www.sciencemuseumgroup.org.uk/blog/covid-19-pandemic-art/)
+* Daivd Goodsell's Gallery in [PDB101](https://pdb101.rcsb.org/sci-art/goodsell-gallery/)
+  - Daivd Goodsell's [Paintings](https://www.sciencemuseumgroup.org.uk/blog/covid-19-pandemic-art/)
   - see how much cytosols are crowded with macromolecules [[YouTube]](https://www.youtube.com/watch?v=2fobDHHl11c&t=1s)
 
 
