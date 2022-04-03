@@ -26,6 +26,8 @@
   - Daivd Goodsell's [Paintings](https://www.sciencemuseumgroup.org.uk/blog/covid-19-pandemic-art/)
   - see how much cytosols are crowded with macromolecules [[YouTube]](https://www.youtube.com/watch?v=2fobDHHl11c&t=1s)
 
+### __Chapter 4__
+* Methanogenesis is carried out by only _Archaeal methanogens_? [Methane might be made by all living organisms?](https://www.nature.com/articles/d41586-022-00206-3)
 
 ---
 ## Links
