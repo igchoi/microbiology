@@ -25,6 +25,7 @@
 * Daivd Goodsell's Gallery in [PDB101](https://pdb101.rcsb.org/sci-art/goodsell-gallery/)
   - Daivd Goodsell's [Paintings](https://www.sciencemuseumgroup.org.uk/blog/covid-19-pandemic-art/)
   - see how much cytosols are crowded with macromolecules [[YouTube]](https://www.youtube.com/watch?v=2fobDHHl11c&t=1s)
+* Tit-for-Tat: Type VI Secretion System Counterattack during Bacterial Cell-Cell Interactions [[YouTube]](https://www.youtube.com/watch?v=aQIU5CvsIjw)
 
 ### __Chapter 4__
 * Methanogenesis is carried out by only _Archaeal methanogens_? [Methane might be made by all living organisms?](https://www.nature.com/articles/d41586-022-00206-3)
