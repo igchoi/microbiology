@@ -34,6 +34,9 @@
 * [Endoplasmic Reticulum, Golgi Apparatus, and Lysosomes](https://www.nature.com/scitable/topicpage/endoplasmic-reticulum-golgi-apparatus-and-lysosomes-14053361/)
 
 ### __Chapter 6__
+* [NCBI SARS-CoV-2 Resources](https://www.ncbi.nlm.nih.gov/sars-cov-2/)
+* [The total number and mass of SARS-CoV-2 virions](https://www.pnas.org/doi/full/10.1073/pnas.2024815118)
+
 
 ---
 ## Links
