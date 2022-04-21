@@ -35,6 +35,7 @@
 
 ### __Chapter 6__
 * [Living antibiotics](https://www.nature.com/articles/s41564-019-0666-4)
+  - [How Bacteria-Infecting Viruses Could Save Lives](https://biobeat.nigms.nih.gov/2022/04/how-bacteria-infecting-viruses-could-save-lives/)
 * [Pandora virus](https://www.newscientist.com/article/dn23901-my-so-called-viral-life-is-discovery-new-life-form/)
 * SARS-Cov-2
   - [NCBI SARS-CoV-2 Resources](https://www.ncbi.nlm.nih.gov/sars-cov-2/)
