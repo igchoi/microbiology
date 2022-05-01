@@ -40,7 +40,7 @@
 * SARS-Cov-2
   - [NCBI SARS-CoV-2 Resources](https://www.ncbi.nlm.nih.gov/sars-cov-2/)
   - [The total number and mass of SARS-CoV-2 virions](https://www.pnas.org/doi/full/10.1073/pnas.2024815118)
-
+* Virus [icosahedron origami](https://rockedu.rockefeller.edu/component/virus-origami/) 
 
 ---
 ## Links
