@@ -50,13 +50,14 @@
 * Growth kinetics - mathematics of bacterial growth [exponential vs. logistic](https://www.khanacademy.org/science/ap-biology/ecology-ap/population-ecology-ap/a/exponential-logistic-growth)
  
 ### __Chapter 8__
-* _Bdellovibrio_ attacking _E. coli_ [youtube](https://youtu.be/-uZjo0ohjFw)
+* _Bdellovibrio_ attacking _E. coli_: see this video at [youtube](https://youtu.be/-uZjo0ohjFw)
 
 ### __Chapter 9__
 * __BOOK__ 
-  - 전염병의 문화사 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000000713979&ctype=m)
+  - 전염병의 문화사 - how diseases shaped human culture? [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000000713979&ctype=m)
   <img src="https://image.aladin.co.kr/product/28/63/cover/8983710780_2.jpg" width=100 height=150>
-  - The disputed discovery of Sterptomycin [book reivew](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140673612612021.pdf)
+  
+  - Dark side of new discovery: the disputed discovery of Sterptomycin - [Book Reivew - Waksman vs. Schatz](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140673612612021.pdf)
 
 ### __Chapter 10__
 ### __Chapter 11__
