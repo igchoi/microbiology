@@ -41,6 +41,16 @@
   - [NCBI SARS-CoV-2 Resources](https://www.ncbi.nlm.nih.gov/sars-cov-2/)
   - [The total number and mass of SARS-CoV-2 virions](https://www.pnas.org/doi/full/10.1073/pnas.2024815118)
 * Virus [icosahedron origami](https://rockedu.rockefeller.edu/component/virus-origami/) 
+* Prions 
+  - __Book__ - Deadly Feast 죽음의 향연 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000045305833&ctype=m)
+  <img src="https://image.aladin.co.kr/product/84/94/letslook/8983711876_f.jpg" width=100 height=150>
+  
+### __Chapter 7__
+### __Chapter 8__
+### __Chapter 9__
+### __Chapter 10__
+### __Chapter 11__
+### __Chapter 12__
 
 ---
 ## Links
