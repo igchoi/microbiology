@@ -42,12 +42,21 @@
   - [The total number and mass of SARS-CoV-2 virions](https://www.pnas.org/doi/full/10.1073/pnas.2024815118)
 * Virus [icosahedron origami](https://rockedu.rockefeller.edu/component/virus-origami/) 
 * Prions 
-  - __Book__ - Deadly Feast 죽음의 향연 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000045305833&ctype=m)
+  - __Book__ - Deadly Feast 죽음의 향연 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000045305833&ctype=m) - How Prions were discovered?
   <img src="https://image.aladin.co.kr/product/84/94/letslook/8983711876_f.jpg" width=100 height=150>
   
 ### __Chapter 7__
+* ParABS (chromosome partition) - see this [youtube video](https://youtu.be/0S0CWAmmFzY?t=280)
+* Growth kinetics - mathematics of bacterial growth [exponential vs. logistic](https://www.khanacademy.org/science/ap-biology/ecology-ap/population-ecology-ap/a/exponential-logistic-growth)
+ 
 ### __Chapter 8__
+* _Bdellovibrio_ attacking _E. coli_ [youtube](https://youtu.be/-uZjo0ohjFw)
+
 ### __Chapter 9__
+* __BOOK__ 
+  - 전염병의 문화사 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000000713979&ctype=m)
+  - The disputed discovery of Sterptomycin [book reivew](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140673612612021.pdf)
+
 ### __Chapter 10__
 ### __Chapter 11__
 ### __Chapter 12__
