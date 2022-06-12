@@ -60,6 +60,8 @@
   - Dark side of new discovery: the disputed discovery of Sterptomycin - [Book Reivew - Waksman vs. Schatz](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140673612612021.pdf)
 
 ### __Chapter 10__
+* Energy conservation through electron transfer chain - [What is redox potential?](https://en.wikipedia.org/wiki/Reduction_potential)
+ 
 ### __Chapter 11__
 ### __Chapter 12__
 
