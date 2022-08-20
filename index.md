@@ -1,6 +1,5 @@
 
-## 2022 Fall LIST204 Microbiology
-## [Microbiology Companion Site](https://github.com/igchoi/microbio-class)
+## 2022 Fall LIST204 Microbiology [edit](https://github.com/igchoi/microbio-class)
 
 ---
 ## Links
