@@ -1,8 +1,8 @@
-## [Microbiology Companion Site](https://github.com/igchoi/microbio-class)
+# [Microbiology Companion Site](https://github.com/igchoi/microbio-class)
 
-### [2022 Fall LIST204 Microbiology]
+## [2022 Fall LIST204 Microbiology]
 
-### [2022 Spring LIST203 Microbiology]
+## [2022 Spring LIST203 Microbiology]
 
 ### __Chapter 1__
 * Who was 'Carl Woese'?
