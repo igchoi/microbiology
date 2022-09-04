@@ -2,7 +2,7 @@
 ## 2022 Fall LIST204 Microbiology [edit](https://github.com/igchoi/microbio-class)
 ---
 ### Readings
-#### _Chapter 19 Microbial Taxonomy_
+### _Chapter 19 Microbial Taxonomy_
 * [Nature NEWS FEATURE 14 May 2019](https://www.nature.com/articles/d41586-019-01496-w): The trickster microbes that are shaking up the tree of life
 * [Nature TECHNOLOGY FEATURE 08 June 2020](https://www.nature.com/articles/d41586-020-01684-z): The search for microbial dark matter
 * [Bacterial Nomenclature 101](https://help.ezbiocloud.net/bacterial-nomenclature-101-and-how-to-describe-new-species/) at Chunlab (written by Dr. Jongsik Chun)
