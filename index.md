@@ -11,6 +11,11 @@
 * __NEW trend__ [SeqCode: a nomenclatural code for prokaryotes described from sequence data](https://www.nature.com/articles/s41564-022-01214-9)
 
 ### _Chapter 20 Archaea_
+
+* Asgard group of __Lokiarcheota__ [The life of archaea](https://www.nature.com/articles/d41586-020-00087-4), [미생물학의 쾌거: 불가사의한 미생물(로키아르카이아) 분리·배양에 성공](https://www.ibric.org/myboard/read.php?id=307839&Board=news)
+* 동아사이언스 (강석기의 과학카페): [진핵생물 진화의 열쇠 쥔 고세균, 배양에 성공하다](https://www.dongascience.com/news.php?idx=30788), [고세균 로키, 진핵세포 진화의 잃어버린 고리인가](https://www.dongascience.com/news.php?idx=6896)
+
+
 ### _Chapter 21_
 ### _Chapter 22_
 
