@@ -17,10 +17,20 @@
 
 
 ### _Chapter 21_ Gram-Negative
-### _Chapter 22_ Proteobacteria Gram-Negative
-### _Chapter 23_
-### _Chapter 24_
 
+* Bacteria could survive just under Mars's surface for 280 million years [_Deinococcus radiodurans_](https://www.newscientist.com/article/2344099-bacteria-could-survive-just-under-marss-surface-for-280-million-years)
+
+### _Chapter 22_ Proteobacteria Gram-Negative
+
+### _Chapter 23_ Gram-positive bacteria (Actinobacteria & Firmicutes)
+
+### _Chapter 24_ Protists
+* Dinoflagellate [bioluminescence](https://www.youtube.com/watch?v=7tPKqeN2qos)
+* NTDs [neglected tropical diseases](https://www.cdc.gov/globalhealth/ntd/diseases/index.html) - "Neglected tropical diseases (NTDs) are a diverse group of 20 conditions that are mainly prevalent in tropical areas, where they mostly affect more than 1 billion people who live mostly impoverished communities. They are caused by a variety of pathogens including viruses, bacteria, parasites, fungi and toxins." from [WHO](https://www.who.int/news-room/questions-and-answers/item/neglected-tropical-diseases)
+* _Toxoplasma_: Driving us mad: the association of Toxoplasma gondii with suicide attempts and traffic accidents – a systematic review and meta-analysis [link](https://www.cambridge.org/core/journals/psychological-medicine/article/driving-us-mad-the-association-of-toxoplasma-gondii-with-suicide-attempts-and-traffic-accidents-a-systematic-review-and-metaanalysis/70570A7C590118DD547C6182802FF606)
+
+### _Chapter 25_ Fungi
+* 'Zombie' Parasite Takes Over Insects Through Mind Control | [National Geographic](https://www.youtube.com/watch?v=vijGdWn5-h8)
 
 ---
 ## Links
