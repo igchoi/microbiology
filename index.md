@@ -30,7 +30,12 @@
 * _Toxoplasma_: Driving us mad: the association of Toxoplasma gondii with suicide attempts and traffic accidents – a systematic review and meta-analysis [link](https://www.cambridge.org/core/journals/psychological-medicine/article/driving-us-mad-the-association-of-toxoplasma-gondii-with-suicide-attempts-and-traffic-accidents-a-systematic-review-and-metaanalysis/70570A7C590118DD547C6182802FF606)
 
 ### _Chapter 25_ Fungi
-* 'Zombie' Parasite Takes Over Insects Through Mind Control | [National Geographic](https://www.youtube.com/watch?v=vijGdWn5-h8)
+* 'Zombie' Parasite Takes Over Insects Through Mind Control [National Geographic](https://www.youtube.com/watch?v=vijGdWn5-h8)
+
+---
+## Class project
+* Armfit microorganisms [Armfit microbes](http://robdunnlab.com/projects/armpit-microbes/)
+<img src="https://www.cell.com/cms/attachment/2007952068/2030507060/gr3.jpg">
 
 ---
 ## Links
