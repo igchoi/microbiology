@@ -35,6 +35,7 @@
 ---
 ## Class project
 * Armfit microorganisms [Armfit microbes](http://robdunnlab.com/projects/armpit-microbes/)
+* Armfit cheese? [Armpit cheese: The sweeter side of bacteria](https://www.newscientist.com/article/mg22029482-000-armpit-cheese-the-sweeter-side-of-bacteria/)
 <img src="https://www.cell.com/cms/attachment/2007952068/2030507060/gr3.jpg">
 
 ---
