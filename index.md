@@ -36,6 +36,11 @@
 ## Class project
 * Armfit microorganisms [Armfit microbes](http://robdunnlab.com/projects/armpit-microbes/)
 * Armfit cheese? [Armpit cheese: The sweeter side of bacteria](https://www.newscientist.com/article/mg22029482-000-armpit-cheese-the-sweeter-side-of-bacteria/)
+* Experimental procedure [google document](https://docs.google.com/document/d/1WQhN1--gcli-AtXaSUKoqlbYOgzyJFuFOzhx0CTod7U/edit)
+  - PCR guide [thermofisher](https://www.thermofisher.com/kr/ko/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/pcr-education/pcr-reagents-enzymes/pcr-component-considerations.html)
+* Results [google sheet](https://docs.google.com/spreadsheets/d/1mSIWUND0OC5NP3eoExsoObJhqNsgdTIACiEa2A1wtH0/edit#gid=1635425747)
+
+
 <img src="https://www.cell.com/cms/attachment/2007952068/2030507060/gr3.jpg">
 
 ---
