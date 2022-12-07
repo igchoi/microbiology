@@ -43,7 +43,7 @@
 ### _Chapter 31_ Terrestrial ecosystem
 ### _Chapter 34_ Human ecosystem
 * 호주, 대변으로 정제한 '장내미생물 의약품' 세계 첫 승인 [동아사이언스](https://www.dongascience.com/news.php?idx=57067)
-
+* Number of human and bacterial cells in the body [PLoS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002533)
 
 
 
