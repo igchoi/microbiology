@@ -1,4 +1,4 @@
-## Spring LIST203 Microbiology [edit](https://github.com/igchoi/microbio-class)
+## LIST203 Microbiology [edit](https://github.com/igchoi/microbio-class)
 
 ### __Chapter 1__
 * Who was 'Carl Woese'?
