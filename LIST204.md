@@ -1,6 +1,6 @@
 
-## LIST204 Microbiology [edit](https://github.com/igchoi/microbio-class)
----
+## LIST204 Microbiology
+
 ### Readings
 
 ### _Chapter 19 Microbial Taxonomy_
