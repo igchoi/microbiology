@@ -1,5 +1,5 @@
 
-## 2022 Fall LIST204 Microbiology [edit](https://github.com/igchoi/microbio-class)
+## LIST204 Microbiology [edit](https://github.com/igchoi/microbio-class)
 ---
 ### Readings
 
