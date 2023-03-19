@@ -16,7 +16,7 @@
 
 ### __Chapter 2__
 * Anthrax - the science behind [__the power of the dogs__](https://www.sciencefriday.com/segments/science-power-of-dog/#segment-transcript) (Netflix movie)
-* Micrographia (1665) by Robert Hooke - a [book](https://www.nlm.nih.gov/exhibition/historicalanatomies/hooke_home.html) illustrating microorganisms (fungi)
+* Micrographia (1665) by Robert Hooke - a [book](https://www.nlm.nih.gov/exhibition/historicalanatomies/hooke_home.html) illustrating microorganisms ([blue mould](https://g.co/arts/ZcYG2p2tLZfrLt6BA))
 * [Optical microscopy primer](https://micro.magnet.fsu.edu/primer/index.html)
   - Microscopy: Dark Field, Phase Contrast, Polarization and DIC (Edward Salmon) [[YouTube]](https://www.youtube.com/watch?v=P2teE17zT4I)
   - Phase-contrast (positive vs. negative) by [MicroscopyU](https://www.microscopyu.com/tutorials/positive-and-negative-phase-contrast)
