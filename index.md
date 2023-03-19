@@ -18,9 +18,9 @@
 * Anthrax - the science behind [__the power of the dogs__](https://www.sciencefriday.com/segments/science-power-of-dog/#segment-transcript) (Netflix movie)
 * Micrographia (1665) by Robert Hooke - a [book](https://www.nlm.nih.gov/exhibition/historicalanatomies/hooke_home.html) illustrating microorganisms (fungi)
 * [Optical microscopy primer](https://micro.magnet.fsu.edu/primer/index.html)
-* Microscopy: Dark Field, Phase Contrast, Polarization and DIC (Edward Salmon) [[YouTube]](https://www.youtube.com/watch?v=P2teE17zT4I)
-* [Real-time brightfield, darkfield, and phase contrast imaging in a light-emitting diode array microscope](https://doi.org/10.1117/1.JBO.19.10.106002)
-* How optical microscope became __nanoscope__? [2014 Nobel prize winners](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2014.pdf)
+  - Microscopy: Dark Field, Phase Contrast, Polarization and DIC (Edward Salmon) [[YouTube]](https://www.youtube.com/watch?v=P2teE17zT4I)
+  - Phase-contrast (positive vs. negative) by [MicroscopyU](https://www.microscopyu.com/tutorials/positive-and-negative-phase-contrast)
+* How optical microscope became __Nanoscope__? [2014 Nobel prize winners](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2014.pdf)
   - [Super resolution fluorescence microscopy](https://www.youtube.com/watch?v=w2Qo__sppcI)
 
 ### __Chapter 3__
