@@ -8,6 +8,7 @@
   - Early life hunt inspired by [oldest fossils debate](https://www.ox.ac.uk/news/2015-04-20-early-life-hunt-inspired-oldest-fossils-debate)
   - Scientists may have found [the earliest evidence of life on Earth](https://www.science.org/content/article/scientists-may-have-found-earliest-evidence-life-earth)
   - A window into prebiotic worlds? [Earth’s earliest hydrothermal systems](https://www.science.org/doi/10.1126/science.adg2630) (Feb 3, 2023)
+* [Exceptions](https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(Boundless)/10%3A_Epidemiology/10.01%3A_Principles_of_Epidemiology/10.1E%3A_Exceptions_to_Kochs_Postulates) to Koch's postulates (__코흐 가설의 예외__)
  
 #### [__Chapter 20__](https://igchoi.github.io/microbio-class/LIST204.html#chapter-20-archaea)
 * Asgard/Loki? (Avengers??) - Archaea(고세균) is missing link in evolution of eukaryote?
