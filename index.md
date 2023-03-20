@@ -9,6 +9,7 @@
   - Scientists may have found [the earliest evidence of life on Earth](https://www.science.org/content/article/scientists-may-have-found-earliest-evidence-life-earth)
   - A window into prebiotic worlds? [Earth’s earliest hydrothermal systems](https://www.science.org/doi/10.1126/science.adg2630) (Feb 3, 2023)
 * [Exceptions](https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(Boundless)/10%3A_Epidemiology/10.01%3A_Principles_of_Epidemiology/10.1E%3A_Exceptions_to_Kochs_Postulates) to Koch's postulates (__코흐 가설의 예외__)
+* __Book__: Microbe Hunters 미생물사냥꾼 이야기 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000045214417&ctype=m) <img src="https://image.aladin.co.kr/product/54/23/cover/8989418437_1.jpg" width=60 height=90>
  
 #### [__Chapter 20__](https://igchoi.github.io/microbio-class/LIST204.html#chapter-20-archaea)
 * Asgard/Loki? (Avengers??) - Archaea(고세균) is missing link in evolution of eukaryote?
@@ -49,19 +50,19 @@
   - [The total number and mass of SARS-CoV-2 virions](https://www.pnas.org/doi/full/10.1073/pnas.2024815118)
 * Virus [icosahedron origami](https://rockedu.rockefeller.edu/component/virus-origami/) 
 * Prions 
-*__Book__: Deadly Feast 죽음의 향연 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000045305833&ctype=m) - How Prions were discovered <img src="https://image.aladin.co.kr/product/84/94/letslook/8983711876_f.jpg" width=30 height=45>
+  - __Book__: Deadly Feast 죽음의 향연 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000045305833&ctype=m) - How Prions were discovered <img src="https://image.aladin.co.kr/product/84/94/letslook/8983711876_f.jpg" width=60 height=90>
   
 ### __Chapter 7__
 * ParABS (chromosome partition) - see this [youtube video](https://youtu.be/0S0CWAmmFzY?t=280)
 * Growth kinetics - mathematics of bacterial growth [exponential vs. logistic](https://www.khanacademy.org/science/ap-biology/ecology-ap/population-ecology-ap/a/exponential-logistic-growth)
-* __BOOK__: 내 속엔 미생물이 너무도 많아 : 기상천외한 공생의 세계로 떠나는 그랜드 투어 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000045915025&ctype=m) <img src="https://image.aladin.co.kr/product/11380/16/letslook/K712531407_f.jpg" width=30 height=45>
+* __BOOK__: 내 속엔 미생물이 너무도 많아 : 기상천외한 공생의 세계로 떠나는 그랜드 투어 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000045915025&ctype=m) <img src="https://image.aladin.co.kr/product/11380/16/letslook/K712531407_f.jpg" width=60 height=90>
  
 ### __Chapter 8__
 * _Bdellovibrio_ attacking _E. coli_: see this video at [youtube](https://youtu.be/-uZjo0ohjFw)
 
 ### __Chapter 9__
 * __BOOK__: 전염병의 문화사 - how diseases shaped human culture? [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000000713979&ctype=m)
-  <img src="https://image.aladin.co.kr/product/28/63/cover/8983710780_2.jpg" width=30 height=45>
+  <img src="https://image.aladin.co.kr/product/28/63/cover/8983710780_2.jpg" width=60 height=90>
 * Dark side of new discovery: the disputed discovery of Sterptomycin - [Book Reivew - Waksman vs. Schatz](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140673612612021.pdf)
 
 ### __Chapter 10__
