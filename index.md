@@ -9,9 +9,10 @@
   - Scientists may have found [the earliest evidence of life on Earth](https://www.science.org/content/article/scientists-may-have-found-earliest-evidence-life-earth)
   - A window into prebiotic worlds? [Earth’s earliest hydrothermal systems](https://www.science.org/doi/10.1126/science.adg2630) (Feb 3, 2023)
 * [Exceptions](https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(Boundless)/10%3A_Epidemiology/10.01%3A_Principles_of_Epidemiology/10.1E%3A_Exceptions_to_Kochs_Postulates) to Koch's postulates (__코흐 가설의 예외__)
-* __Book__: Microbe Hunters 미생물사냥꾼 이야기 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000045214417&ctype=m) <img src="https://image.aladin.co.kr/product/54/23/cover/8989418437_1.jpg" width=60 height=90>
 * ASM Podcast [Meet the Microbiologist](https://asm.org/Podcasts/MTM)
   - [The Self-Experimentation of Barry Marshall](https://asm.org/Podcasts/MTM/Episodes/The-Self-Experimentation-of-Barry-Marshall-MTM-144)  
+* __Book__: Microbe Hunters 미생물사냥꾼 이야기 [도서관 링크](https://library.korea.ac.kr/detail/?cid=CAT000045214417&ctype=m) <img src="https://image.aladin.co.kr/product/54/23/cover/8989418437_1.jpg" width=60 height=90>
+
 #### [__Chapter 20__](https://igchoi.github.io/microbio-class/LIST204.html#chapter-20-archaea)
 * Asgard/Loki? (Avengers??) - Archaea(고세균) is missing link in evolution of eukaryote?
   - Asgard group of __Lokiarcheota__ [The life of archaea](https://www.nature.com/articles/d41586-020-00087-4), [미생물학의 쾌거: 불가사의한 미생물(로키아르카이아) 분리·배양에 성공](https://www.ibric.org/myboard/read.php?id=307839&Board=news)
