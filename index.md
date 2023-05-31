@@ -69,6 +69,7 @@
 
 ### __Chapter 10__
 * Energy conservation through electron transfer chain - [What is redox potential?](https://en.wikipedia.org/wiki/Reduction_potential)
+* Who were Michaelis and Menten? - [Michaelis-Menten Equation](https://www.sciencehistory.org/historical-profile/leonor-michaelis-and-maud-leonora-menten)
  
 ### __Chapter 11__
 ### __Chapter 12__
@@ -82,7 +83,8 @@
 * 영국 미생물학회 소식지 [Microbiology Today](https://microbiologysociety.org/publication/current-issue/)
 * 미생물생명공학회 [웹진](http://www.e-bioindustry.or.kr/index.html)
 * 미생물학회 [웹진](http://www.msk.or.kr/webzine/201906/index.html)
-* 대한민국 국가과학유공자 UC버클리 김성호 교수님 [증서수여식](https://youtube.com/clip/UgkxOnFmgnLcM19qjs3gkMSSlAlKpa903mno)
+* 대한민국 국가과학유공자 UC버클리 김성호 교수님 [2023.05.30. 증서수여식](https://youtube.com/clip/UgkxOnFmgnLcM19qjs3gkMSSlAlKpa903mno)
+* Chemistry tree [In-Geol Choi](https://academictree.org/chemistry/tree.php?pid=736818)
 
 
 ---
