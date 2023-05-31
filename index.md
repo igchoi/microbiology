@@ -82,6 +82,7 @@
 * 영국 미생물학회 소식지 [Microbiology Today](https://microbiologysociety.org/publication/current-issue/)
 * 미생물생명공학회 [웹진](http://www.e-bioindustry.or.kr/index.html)
 * 미생물학회 [웹진](http://www.msk.or.kr/webzine/201906/index.html)
+* 대한민국 국가과학유공자 UC버클리 김성호 교수님 [증서수여식](https://youtube.com/clip/UgkxOnFmgnLcM19qjs3gkMSSlAlKpa903mno)
 
 
 ---
