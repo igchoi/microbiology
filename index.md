@@ -1,4 +1,19 @@
 ## LIST203 Microbiology
+### Links for students (readings & references)
+#### 최신연구동향
+* [Small things considered (blog)](https://schaechter.asmblog.org/)
+* [ASM Podcasts](https://www.asm.org/podcasts)
+* 영국 미생물학회 소식지 [Microbiology Today](https://microbiologysociety.org/publication/current-issue/)
+* 미생물생명공학회 [웹진](http://www.e-bioindustry.or.kr/index.html)
+* 미생물학회 [웹진](http://www.msk.or.kr/webzine/201906/index.html)
+#### 참고
+* 대한민국 국가과학유공자 UC버클리 김성호 교수님 [2023.05.30. 증서수여식](https://youtube.com/clip/UgkxOnFmgnLcM19qjs3gkMSSlAlKpa903mno)
+  - 'RNA 연구' 석학 김성호 "호기심 좇을 수 있게 국가가 도와야" [연합뉴스 인터뷰](https://www.yna.co.kr/view/AKR20230604025300017?input=1195m)
+  - [과기 유공자 김성호 교수, 노벨상 불발된 사연](https://www.dongascience.com/news.php?idx=60039)
+  - Chemistry tree [In-Geol Choi](https://academictree.org/chemistry/tree.php?pid=736818)
+* [페임랩코리아](https://www.facebook.com/famelab.korea/?locale=ko_KR)
+#### 학회
+* American Society of Microbiology 미국 미생물학회 [ASM](https://www.asm.org)
 
 ### __Chapter 1__
 * Who was 'Carl Woese'?
@@ -73,18 +88,6 @@
  
 ### __Chapter 11__
 ### __Chapter 12__
-
----
-## Links
-
-* American Society of Microbiology 미국 미생물학회 [ASM](https://www.asm.org)
-* [Small things considered (blog)](https://schaechter.asmblog.org/)
-* [ASM Podcasts](https://www.asm.org/podcasts)
-* 영국 미생물학회 소식지 [Microbiology Today](https://microbiologysociety.org/publication/current-issue/)
-* 미생물생명공학회 [웹진](http://www.e-bioindustry.or.kr/index.html)
-* 미생물학회 [웹진](http://www.msk.or.kr/webzine/201906/index.html)
-* 대한민국 국가과학유공자 UC버클리 김성호 교수님 [2023.05.30. 증서수여식](https://youtube.com/clip/UgkxOnFmgnLcM19qjs3gkMSSlAlKpa903mno)
-* Chemistry tree [In-Geol Choi](https://academictree.org/chemistry/tree.php?pid=736818)
 
 
 ---
