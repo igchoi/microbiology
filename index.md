@@ -21,7 +21,7 @@
 * Bacteria could survive just under Mars's surface for 280 million years [_Deinococcus radiodurans_](https://www.newscientist.com/article/2344099-bacteria-could-survive-just-under-marss-surface-for-280-million-years)
 
 ### _Chapter 21_ Proteobacteria
-* Culture [unculturable](https://www.ibric.org/bric/trend/bio-news.do?mode=view&articleNo=9861670)
+* Culture _unculturable_ [심해의 청소부 ‘사르202’ 세균, 실험실 배양 성공](https://www.ibric.org/bric/trend/bio-news.do?mode=view&articleNo=9861670)
   
 ### _Chapter 22_ Gram-positive bacteria (Actinobacteria & Firmicutes)
 
