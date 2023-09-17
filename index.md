@@ -14,6 +14,7 @@
 
 * Asgard group of __Lokiarcheota__ [The life of archaea](https://www.nature.com/articles/d41586-020-00087-4)
 * 동아사이언스 (강석기의 과학카페): [진핵생물 진화의 열쇠 쥔 고세균, 배양에 성공하다](https://www.dongascience.com/news.php?idx=30788), [고세균 로키, 진핵세포 진화의 잃어버린 고리인가](https://www.dongascience.com/news.php?idx=6896)
+* Reading paper - [A new symbiotic nanoarchaeote (Candidatus Nanoclepta minutus) and its host (Zestosphaera tikiterensis gen. nov., sp. nov.) from a New Zealand hot spring](https://pubmed.ncbi.nlm.nih.gov/30195930/)
 
 
 ### _Chapter 20_ _Nonproteobacterial Gram-Negative Bacteria_
