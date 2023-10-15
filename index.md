@@ -19,10 +19,16 @@
 
 ### _Chapter 20_ _Nonproteobacterial Gram-Negative Bacteria_
 * Movie _Back To the Future_ [Garbage fuel](https://youtu.be/vHake6w4Su0?si=Ihk9zmJQhKGYOoJD&t=25)
-* Bacteria could survive just under Mars's surface for 280 million years [_Deinococcus radiodurans_](https://www.newscientist.com/article/2344099-bacteria-could-survive-just-under-marss-surface-for-280-million-years)
+* [_Deinococcus radiodurans_](https://www.newscientist.com/article/2344099-bacteria-could-survive-just-under-marss-surface-for-280-million-years)
+: Bacteria could survive just under Mars's surface for 280 million years
+* [_Helicobacter pyroli_](https://blogs.scientificamerican.com/guest-blog/when-scientists-experiment-on-themselves-h-pylori-and-ulcers/) - When Scientists Experiment on Themselves: _H. pylori_ and Ulcers
+  - [배리 먀셜](https://namu.wiki/w/%EB%B0%B0%EB%A6%AC%20%EB%A7%88%EC%85%9C)
 
 ### _Chapter 21_ Proteobacteria
-* Culture _unculturable_ [심해의 청소부 ‘사르202’ 세균, 실험실 배양 성공](https://www.ibric.org/bric/trend/bio-news.do?mode=view&articleNo=9861670)
+* [SAR11](https://www.annualreviews.org/doi/10.1146/annurev-marine-010814-015934) - SAR11 Bacteria: The Most Abundant Plankton in the Oceans
+* [SAR11 and SAR202](https://bios.asu.edu/currents/the-most-abundant-organisms-youve-never-heard-of/) - The Most Abundant Organisms You’ve Never Heard Of
+  - Culture _unculturable_ [심해의 청소부 ‘사르202’ 세균, 실험실 배양 성공](https://www.ibric.org/bric/trend/bio-news.do?mode=view&articleNo=9861670)
+* [_Caulobacter crescentus_](https://pubmed.ncbi.nlm.nih.gov/36286485/) - Holdfast: What Glues the Glue to the Cell Surface?
   
 ### _Chapter 22_ Gram-positive bacteria (Actinobacteria & Firmicutes)
 
