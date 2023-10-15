@@ -31,6 +31,7 @@
 * [_Caulobacter crescentus_](https://pubmed.ncbi.nlm.nih.gov/36286485/) - Holdfast: What Glues the Glue to the Cell Surface?
   
 ### _Chapter 22_ Gram-positive bacteria (Actinobacteria & Firmicutes)
+* [Acarbose](https://en.wikipedia.org/wiki/Acarbose)
 
 ### _Chapter 23_ Protists
 * Dinoflagellate [bioluminescence](https://www.youtube.com/watch?v=7tPKqeN2qos)
