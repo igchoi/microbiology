@@ -60,7 +60,11 @@
 
 
 ---
-## Class project
+## Cell shape
+
+<img src="https://en.wikipedia.org/wiki/Bacillus_%28shape%29#/media/File:Bacterial_morphology_diagram.svg">
+  
+## Class project 2022
 * Armfit microorganisms [Armfit microbes](http://robdunnlab.com/projects/armpit-microbes/)
 * Armfit cheese? [Armpit cheese: The sweeter side of bacteria](https://www.newscientist.com/article/mg22029482-000-armpit-cheese-the-sweeter-side-of-bacteria/)
 * Experimental procedure [google document](https://docs.google.com/document/d/1WQhN1--gcli-AtXaSUKoqlbYOgzyJFuFOzhx0CTod7U/edit)
