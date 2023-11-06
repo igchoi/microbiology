@@ -32,7 +32,7 @@
   
 ### _Chapter 22_ Gram-positive bacteria (Actinobacteria & Firmicutes)
 * _Actinoplanes_ producing anti-diabetic drug: [Acarbose](https://en.wikipedia.org/wiki/Acarbose)
-* [Alder tree](https://ko.wikipedia.org/wiki/%EC%98%A4%EB%A6%AC%EB%82%98%EB%AC%B4)
+* [Alder tree](https://ko.wikipedia.org/wiki/%EC%98%A4%EB%A6%AC%EB%82%98%EB%AC%B4) - symbiotic host for _Frankia_
 
 ### _Chapter 23_ Protists
 * Trichocysts - [speciallized compressed proteins](https://www.youtube.com/shorts/rWME4_AN2tI)
