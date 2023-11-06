@@ -36,6 +36,7 @@
 
 ### _Chapter 23_ Protists
 * Trichocysts - [speciallized compressed proteins](https://www.youtube.com/shorts/rWME4_AN2tI)
+* Micorfauna in a [termite gut](https://www.nikonsmallworld.com/galleries/2021-small-world-in-motion-competition/microfauna-in-a-termite-gut)
 * Dinoflagellate [bioluminescence](https://www.youtube.com/watch?v=7tPKqeN2qos)
 * NTDs [neglected tropical diseases](https://www.cdc.gov/globalhealth/ntd/diseases/index.html) - "Neglected tropical diseases (NTDs) are a diverse group of 20 conditions that are mainly prevalent in tropical areas, where they mostly affect more than 1 billion people who live mostly impoverished communities. They are caused by a variety of pathogens including viruses, bacteria, parasites, fungi and toxins." from [WHO](https://www.who.int/news-room/questions-and-answers/item/neglected-tropical-diseases)
 * _Toxoplasma_: Driving us mad: the association of Toxoplasma gondii with suicide attempts and traffic accidents – a systematic review and meta-analysis [link](https://www.cambridge.org/core/journals/psychological-medicine/article/driving-us-mad-the-association-of-toxoplasma-gondii-with-suicide-attempts-and-traffic-accidents-a-systematic-review-and-metaanalysis/70570A7C590118DD547C6182802FF606)
