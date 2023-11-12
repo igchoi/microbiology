@@ -43,6 +43,7 @@
 
 ### _Chapter 24_ Fungi
 * 'Zombie' Parasite Takes Over Insects Through Mind Control [National Geographic](https://www.youtube.com/watch?v=vijGdWn5-h8)
+* 세계 개구리 멸종으로 내몬 항아리곰팡이, 한국이 발원지 - [Chytrids](https://www.dongascience.com/news.php?idx=22408)
 
 ### _Chapter 25_ Viruses
 
