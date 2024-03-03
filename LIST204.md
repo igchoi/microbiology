@@ -67,7 +67,7 @@
 ---
 ## Cell shape
 
-<img src="https://en.wikipedia.org/wiki/Bacillus_%28shape%29#/media/File:Bacterial_morphology_diagram.svg">
+* morphology example: [<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Bacterial_morphology_diagram.svg" width=200 height=200>](https://en.wikipedia.org/wiki/Bacillus_%28shape%29#/media/File:Bacterial_morphology_diagram.svg)
   
 ## Class project 2022
 * Armfit microorganisms [Armfit microbes](http://robdunnlab.com/projects/armpit-microbes/)
@@ -76,8 +76,7 @@
   - PCR guide [thermofisher](https://www.thermofisher.com/kr/ko/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/pcr-education/pcr-reagents-enzymes/pcr-component-considerations.html)
 * Results [google sheet](https://docs.google.com/spreadsheets/d/1mSIWUND0OC5NP3eoExsoObJhqNsgdTIACiEa2A1wtH0/edit#gid=1635425747)
 
-
-<img src="https://www.cell.com/cms/attachment/2007952068/2030507060/gr3.jpg">
+<!-- * experimental procedure: [<img src="https://www.cell.com/cms/attachment/2007952068/2030507060/gr3.jpg" width=100 height=200>](https://www.cell.com/cms/attachment/2007952068/2030507060/gr3.jpg) */ -->
 
 ---
 ## Links
