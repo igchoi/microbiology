@@ -41,6 +41,11 @@
   - Phase contrast vs. [DIC](https://www.microscopyu.com/tutorials/comparison-of-phase-contrast-and-dic-microscopy)
 * How optical microscope became __Nanoscope__? [2014 Nobel prize winners](https://www.nobelprize.org/uploads/2018/06/popular-chemistryprize2014.pdf)
   - [Super resolution fluorescence microscopy](https://www.youtube.com/watch?v=w2Qo__sppcI)
+* DIY Microscopes
+  - [Foldscope](https://foldscope.com/)
+  - [Legoscope](https://arstechnica.com/science/2021/07/german-scientists-built-a-high-resolution-microscope-out-of-lego-bricks/)
+  - [Cellscope](https://cellscope.berkeley.edu/)
+  - [OpenFlexure project](https://openflexure.org/)
 
 ### __Chapter 3__
 * Why bacteria can't get any bigger—or smaller? [size matters!](https://www.science.org/content/article/why-bacteria-can-t-get-any-bigger-or-smaller)
