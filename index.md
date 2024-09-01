@@ -7,6 +7,9 @@
 
 * [Nature NEWS FEATURE 14 May 2019](https://www.nature.com/articles/d41586-019-01496-w): The trickster microbes that are shaking up the tree of life
 * [Nature TECHNOLOGY FEATURE 08 June 2020](https://www.nature.com/articles/d41586-020-01684-z): The search for microbial dark matter
+* [Nature Comment Published: 02 August 2024](https://www.nature.com/articles/s41564-024-01768-w): __The ever-changing tree of life__
+  - [GTDB](https://gtdb.ecogenomic.org/): Genome Taxonomy Database
+#### Nomenclature
 * [Bacterial Nomenclature 101](https://help.ezbiocloud.net/bacterial-nomenclature-101-and-how-to-describe-new-species/) at Chunlab (written by Dr. Jongsik Chun)
 * __NEW trend__ [SeqCode: a nomenclatural code for prokaryotes described from sequence data](https://www.nature.com/articles/s41564-022-01214-9)
 
