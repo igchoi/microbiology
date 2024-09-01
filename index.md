@@ -1,5 +1,8 @@
 
 ## LIST204 Microbiology
+* 2024 LIST204 class attendance
+  
+![image](https://github.com/user-attachments/assets/3f72732d-3d88-443d-972a-1694e0c4b63d)
 
 ### Readings
 
