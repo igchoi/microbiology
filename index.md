@@ -26,6 +26,8 @@
 ### _Chapter 20_ _Nonproteobacterial Gram-Negative Bacteria_
 * Movie _Back To the Future_ [Garbage fuel](https://youtu.be/vHake6w4Su0?si=Ihk9zmJQhKGYOoJD&t=25)
 * [_Deinococcus radiodurans_](https://www.newscientist.com/article/2344099-bacteria-could-survive-just-under-marss-surface-for-280-million-years): Bacteria could survive just under Mars's surface for 280 million years
+* [Lyme disease](https://www.cdc.gov/lyme/index.html)
+  - [Microbial antigenic variation mediated by homologous DNA recombination](https://academic.oup.com/femsre/article/36/5/917/660062?login=false)
 * Magnetotatic bacteria [how they react?](https://youtu.be/R43H09nkyGk?si=QailQybSUsvBachY)
 * [_Helicobacter pyroli_](https://blogs.scientificamerican.com/guest-blog/when-scientists-experiment-on-themselves-h-pylori-and-ulcers/) - When Scientists Experiment on Themselves: _H. pylori_ and Ulcers
   - [배리 먀셜](https://namu.wiki/w/%EB%B0%B0%EB%A6%AC%20%EB%A7%88%EC%85%9C)
