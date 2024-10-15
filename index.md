@@ -43,6 +43,7 @@
 * [Alder tree](https://ko.wikipedia.org/wiki/%EC%98%A4%EB%A6%AC%EB%82%98%EB%AC%B4) - symbiotic host for _Frankia_
 
 ### _Chapter 23_ Protists
+* [Can a single-celled organism 'change its mind'? New study says yes](https://www.eurekalert.org/news-releases/599859)
 * Trichocysts - [speciallized compressed proteins](https://www.youtube.com/shorts/rWME4_AN2tI)
 * Micorfauna in a [termite gut](https://www.nikonsmallworld.com/galleries/2021-small-world-in-motion-competition/microfauna-in-a-termite-gut)
 * Dinoflagellate [bioluminescence](https://www.youtube.com/watch?v=7tPKqeN2qos)
