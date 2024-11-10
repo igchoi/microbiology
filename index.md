@@ -59,7 +59,7 @@
 
 ### _Chapter 26_ Exploring Microbes in Ecosystems
 * [__ECOFAB__](https://eco-fab.org/): LINKING GENOME BIOLOGY TO ECOSYSTEM PROCESSES THROUGH MODEL LABORATORY ECOSYSTEMS
-
+* [Mystery oxygen source](https://www.nature.com/articles/d41586-024-02393-7) discovered on the sea floor — bewildering scientists 
 ### _Chapter 27_ Microbial interactions
 
 ### _Chapter 28_ Biogeochemical cycling
