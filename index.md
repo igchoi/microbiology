@@ -58,6 +58,7 @@
 
 
 ### _Chapter 26_ Exploring Microbes in Ecosystems
+* [생물자원센터 KCTC 미생물 동정서비스](https://kctc.kribb.re.kr/jzService/identy)
 * [__ECOFAB__](https://eco-fab.org/): LINKING GENOME BIOLOGY TO ECOSYSTEM PROCESSES THROUGH MODEL LABORATORY ECOSYSTEMS
 
 ### _Chapter 27_ Microbial interactions
