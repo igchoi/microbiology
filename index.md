@@ -63,8 +63,11 @@
 
 ### _Chapter 27_ Microbial interactions
 * [Mystery oxygen source](https://www.nature.com/articles/d41586-024-02393-7) discovered on the sea floor — bewildering scientists 
+* [Tit-for-Tat: Type VI Secretion System Counterattack during Bacterial Cell-Cell Interactions __Video__](https://www.youtube.com/watch?v=aQIU5CvsIjw)
 
 ### _Chapter 28_ Biogeochemical cycling
+* [서울 첫 '말라리아 경보…원인은 기후변화·북한 영향? (2024.09.07)](https://m.dongascience.com/news.php?idx=67332)
+* [기후 변화로 인한 미래 질병 대비해야···"뎅기열 토착화 가능성↑" (2024.03.18)](https://www.ajunews.com/view/20240318112212255)
 
 ### _Chapter 29_ Aquatic ecosystem
 * Winogradsky column [microbial ecology in a bottle @HHMI](https://www.biointeractive.org/classroom-resources/winogradsky-column-microbial-ecology-bottle)
