@@ -75,6 +75,10 @@
 * Exploratorium live painting - [Bacteriopolis](https://www.exploratorium.edu/exhibits/bacteriopolis)
 
 ### _Chapter 30_ Terrestrial ecosystem
+* [천마](https://ko.wikipedia.org/wiki/%EC%B2%9C%EB%A7%88_(%EC%8B%9D%EB%AC%BC))
+  - [The Gastrodia elata genome provides insights into plant adaptation to heterotrophy](https://www.nature.com/articles/s41467-018-03423-5)
+* [Worm-trapping fungi](https://www.youtube.com/watch?v=V6g3OjkhClE)
+
 
 ### _Chapter 33_ Human ecosystem
 * 호주, 대변으로 정제한 '장내미생물 의약품' 세계 첫 승인 [동아사이언스](https://www.dongascience.com/news.php?idx=57067)
